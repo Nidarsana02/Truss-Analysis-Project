@@ -12,7 +12,7 @@ This is to be done using the SAP2000 software.
 
 ## WHAT HAVE WE PLANNED TO DO?
 - First and foremost aim is to understand bridge terminology, factors affecting bridge stability and the materials used in bridge construction.
-- Maintain a ocumentation record of the resources we have referred to.
+- Maintain a documentation record of the resources we have referred to.
 - Get a basic idea of how the SAP2000 software works.
 - Try to get acquainted with it by constructing sample bridges.
 - Research upon the dimensions and number of lanes in the bridge. Also, geeting exposed to different types of structures and choose which best suits our needs.
